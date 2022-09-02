@@ -1,0 +1,2 @@
+# mainichi_chikusyo_ai_model
+コウメ太夫のまいにちチクショーを取得してmodel化してみる
